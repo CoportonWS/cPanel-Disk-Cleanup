@@ -15,7 +15,7 @@ Routine junk (old logs, package cache) is cleaned in one step. Anything that cou
 ║  Date  : 11 Oct 2026, 12:02:56                                     ║
 ║  Mode  : Report only (nothing will be changed)                     ║
 ╠════════════════════════════════════════════════════════════════════╣
-║                      Created by Fariduzzaman                       ║
+║                  Created by Coporton WorkStation                   ║
 ║                    Open source  -  MIT License                     ║
 ╚════════════════════════════════════════════════════════════════════╝
 
@@ -182,4 +182,4 @@ This script deletes files. It is written to be careful, but every server is diff
 
 ## License
 
-[MIT](LICENSE) © Fariduzzaman
+[MIT](LICENSE) © CoportonWS
