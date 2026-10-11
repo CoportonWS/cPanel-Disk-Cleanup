@@ -1,3 +1,6 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![GitHub last commit](https://img.shields.io/github/last-commit/CoportonWS/cpanel-disk-cleanup/)](https://github.com/CoportonWS/cpanel-disk-cleanup/commits/main)
+
 # cPanel Disk Cleanup
 
 A safe, interactive Bash script that finds what is filling up a cPanel/WHM server's disk, shows you a clear report, and cleans it up **only with your permission**.
