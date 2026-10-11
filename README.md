@@ -1,5 +1,5 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![GitHub last commit](https://img.shields.io/github/last-commit/CoportonWS/cPanel-Disk-Cleanup)](https://github.com/CoportonWS/cPanel-Disk-Cleanup/commits/main)
+[![GitHub last commit](https://img.shields.io/github/last-commit/CoportonWS/cPanel-Disk-Cleanup?cacheSeconds=300)](https://github.com/CoportonWS/cPanel-Disk-Cleanup/commits/main)
 
 # cPanel Disk Cleanup
 
